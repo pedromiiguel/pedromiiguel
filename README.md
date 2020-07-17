@@ -1,16 +1,21 @@
-### Hi there 👋
+# Welcome!
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pedromiiguel)](https://github.com/pedromiiguel)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-miiguel)](https://www.linkedin.com/in/pedro-miiguel)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+61+995200297&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+61+995200297&text=Hello!)
 
-<!--
-**pedromiiguel/pedromiiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+## I'm Pedro Miguel! Web developer, stundent of ti(Systems of Internet) in Federal Brasília Institute.
+ 
+- :rocket: Techs: HTML, CSS, Javascript, Nodejs;
+- :books: Studying: ReactJS, React Native;
+- :blue_heart: Enthusiast for web development technologies;
+- :earth_americas: In search of knowledge.
 
-Here are some ideas to get you started:
+ 
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 
+#### Thanks for visiting. 
+ 
+#### Enjoy it!! o/
