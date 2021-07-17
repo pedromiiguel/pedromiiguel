@@ -6,8 +6,8 @@
  
 ## I'm Pedro Miguel! Web developer, stundent of ti(Systems of Internet) in Federal Brasília Institute.
  
-- :rocket: Techs: HTML, CSS, Javascript, Nodejs;
-- :books: Studying: ReactJS, React Native;
+- :rocket: Techs: HTML, CSS, Javascript, Nodejs, ReactJS;
+- :books: Studying: React Native;
 - :blue_heart: Enthusiast for web development technologies;
 - :earth_americas: In search of knowledge.
 
