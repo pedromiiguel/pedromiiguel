@@ -2,8 +2,8 @@
 
 - Front-End Developer
 - :books: Studying: Redux;
-- :blue_heart: Enthusiast for web development technologies;
-- :earth_americas: In search of knowledge.
+- :blue_heart: Enthusiast of web development technologies;
+- :earth_americas: Searching of knowledge.
 
 <h2>About me</h2>
 
