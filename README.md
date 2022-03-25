@@ -1,7 +1,7 @@
 ## Hello, I'm Pedro Miguel!
 
 - Front-End Developer
-- :books: Studying: Redux;
+- :books: Studying: TDD and Graphql;
 - :blue_heart: Enthusiast of web development technologies;
 - :earth_americas: Searching of knowledge.
 
