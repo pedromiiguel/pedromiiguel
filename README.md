@@ -1,5 +1,3 @@
-## Hello, I'm Pedro Miguel!
-
 <p>Desenvolvedor front-end com experiência nas principais tecnologias do mercado, incluindo React Hooks, API Rest,
 Typescript, Git Flow, Sass e Styled components. Sou um entusiasta na área de desenvolvimento web e mobile, estou
 sempre em busca de novas experiências. Possuo facilidade em aprender novas tecnologias e acredito que a
