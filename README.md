@@ -1,9 +1,12 @@
 ## Hello, I'm Pedro Miguel!
 
-- Front-End Developer
-- :books: Studying: TDD and Graphql;
-- :blue_heart: Enthusiast of web development technologies;
-- :earth_americas: Searching of knowledge.
+<p>Desenvolvedor front-end com experiência nas principais tecnologias do mercado, incluindo React Hooks, API Rest,
+Typescript, Git Flow, Sass e Styled components. Sou um entusiasta na área de desenvolvimento web e mobile, estou
+sempre em busca de novas experiências. Possuo facilidade em aprender novas tecnologias e acredito que a
+atualização constante é fundamental para o desenvolvimento de soluções web inovadoras e de alta qualidade. Estou
+comprometido em criar interfaces de usuário incríveis e otimizadas, trabalhando em equipe para atender às
+necessidades do projeto. Busco novas oportunidades que me permitam aplicar minhas habilidades e continuar
+aprendendo e evoluindo como desenvolvedor front-end</p>
 
 <h2>About me</h2>
 
