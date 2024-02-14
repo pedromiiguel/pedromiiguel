@@ -1,10 +1,4 @@
-<p>Desenvolvedor front-end com experiência nas principais tecnologias do mercado, incluindo React Hooks, API Rest,
-Typescript, Git Flow, Sass e Styled components. Sou um entusiasta na área de desenvolvimento web e mobile, estou
-sempre em busca de novas experiências. Possuo facilidade em aprender novas tecnologias e acredito que a
-atualização constante é fundamental para o desenvolvimento de soluções web inovadoras e de alta qualidade. Estou
-comprometido em criar interfaces de usuário incríveis e otimizadas, trabalhando em equipe para atender às
-necessidades do projeto. Busco novas oportunidades que me permitam aplicar minhas habilidades e continuar
-aprendendo e evoluindo como desenvolvedor front-end</p>
+<p>Desenvolvedor Front-End com ampla experiência em projetos web e mobile, tenho uma sólida base de habilidades em tecnologias como React Js, React Native, SASS, Styled Components, Typescript e NextJs, estou sempre em busca de desafios estimulantes e oportunidades para aprimorar minhas habilidades. Minha paixão pelo desenvolvimento front-end e meu compromisso com a excelência impulsionam-me a criar soluções inovadoras e impactantes. Estou ansioso para continuar crescendo como desenvolvedor e contribuir para projetos que moldam o mundo digital de maneira positiva.</p>
 
 <h2>About me</h2>
 
